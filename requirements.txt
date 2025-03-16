@@ -1,0 +1,10 @@
+   # requirements.txt
+   spacy
+   transformers
+   tweepy
+   psycopg2-binary
+   twilio
+   sendgrid
+   fastapi  # for API
+   pytest   # for testing
+   python-dotenv  # for environment variables
